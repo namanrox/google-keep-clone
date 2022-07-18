@@ -20,7 +20,7 @@ It is a clone of the Google Keep App using React. It can add and delete notes im
 git clone https://github.com/Naman-codes2001/google-keep-clone.git
 ```
 in your GitBash or terminal of VS Code.
-- Run the command `cd google-keep-clone`
+- Run the command `cd google-keep-clone/keep-clone`
 - Run `npm install` to install all dependencies for the project.
 - Run `npm start` to start the project on localhost:3000.
 - Now you are set to use this project locally.
