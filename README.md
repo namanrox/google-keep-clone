@@ -5,6 +5,8 @@ It is a clone of the Google Keep App using React. It can add and delete notes im
 - CSS
 - React Js (JSX)
 - Material UI
+## Demo Video
+[Google-Keep-Clone.webm](https://user-images.githubusercontent.com/94623032/179485794-b4bc935e-2071-4d66-bd75-a3377c48d9fb.webm)
 ## Environmental Setup
 - This project was developed in VS Code.
 #### How to setup in local environment to use this project
@@ -22,3 +24,5 @@ in your GitBash or terminal of VS Code.
 - Run `npm install` to install all dependencies for the project.
 - Run `npm start` to start the project on localhost:3000.
 - Now you are set to use this project locally.
+
+
