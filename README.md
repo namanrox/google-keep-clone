@@ -1,5 +1,13 @@
 # Google-Keep-Clone
-It is a clone of the Google Keep App using React. It can add and delete notes implemented using JSX and styled with CSS and Material UI.
+[![Language](https://img.shields.io/badge/Language-Javascript-blue.svg?style=flat)](https://www.javascript.com/)
+[![Framework](https://img.shields.io/badge/Framework-Reactjs-brightgreen.svg?style=flat)](https://reactjs.org/)
+# About
+- It is a clone of the Google Keep App using React.
+- It's functionality includes:
+  - Adding a note
+  - Deleting a note 
+  - Implemented using JSX
+  - Styled with CSS and Material UI.
 # Tech Stack
 - HTML
 - CSS
