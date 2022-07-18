@@ -6,7 +6,7 @@ import Note from "./components/Note";
 import Count from "./components/Count";
 import Footer from "./components/Footer";
 
-function App(props) {
+function App() {
   const [notes, setNotes] = useState([]);
 
   function addNote(newNote) {
